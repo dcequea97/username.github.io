@@ -18,12 +18,12 @@ export const SKILLS: { en: SkillCategory[], es: SkillCategory[] } = {
     {
       title: "Core Android",
       icon: "fa-mobile-screen",
-      skills: ["Kotlin", "Java", "Jetpack Compose", "XML Layouts", "Android SDK", "Material Design 3"]
+      skills: ["Kotlin", "Jetpack Compose", "Android SDK", "Material Design 3"]
     },
     {
       title: "Architecture & Patterns",
       icon: "fa-layer-group",
-      skills: ["MVVM", "MVI", "Clean Architecture", "Dependency Injection (Hilt/Koin)", "Coroutines", "Flow"]
+      skills: ["MVVM", "Clean Architecture", "Dependency Injection (Hilt/Koin)", "Coroutines", "Flow"]
     },
     {
       title: "Tools & Libraries",
@@ -135,7 +135,7 @@ export const UI_LABELS = {
     projectsDesc: "A selection of apps I've built. From utility tools to full-scale social platforms, each project represents a unique challenge solved.",
     whatsNext: "What's Next?",
     letsWork: "Let's work together",
-    available: "I'm currently available for freelance work and full-time positions. If you have a project that needs some creative Android touch, let's hear it.",
+    available: "I'm currently available for freelance work. If you have a project that needs some creative Android touch, let's hear it.",
     sayHello: "Say Hello",
     footer: "Designed & Built with React and Tailwind."
   },
@@ -151,7 +151,7 @@ export const UI_LABELS = {
     projectsDesc: "Una selección de apps que he construido. Desde herramientas de utilidad hasta plataformas sociales a gran escala, cada proyecto representa un desafío único resuelto.",
     whatsNext: "¿Qué sigue?",
     letsWork: "Trabajemos Juntos",
-    available: "Actualmente estoy disponible para trabajo freelance y posiciones a tiempo completo. Si tienes un proyecto que necesita un toque creativo de Android, hablemos.",
+    available: "Actualmente estoy disponible para trabajo freelance. Si tienes un proyecto que necesita un toque creativo de Android, hablemos.",
     sayHello: "Saludar",
     footer: "Diseñado y construido con React y Tailwind."
   }
