@@ -6,7 +6,7 @@ export default defineConfig(() => {
     // const env = loadEnv(mode, '.', '');
     return {
       plugins: [react()],
-      base: '/dcequea97.github.io/',
+      base: 'https://dcequea97.github.io/',
       // server: {
       //   port: 443,
       //   host: '0.0.0.0',
